@@ -1,0 +1,13 @@
+<Users>
+  <User>
+    <Name>Admin</Name>
+    <Password>Asdfg</Password>
+    <Blocked>0</Blocked>
+    <Admin>1</Admin>
+  </User>
+  <User>
+    <Name>Vadim</Name>
+    <Password>asdf</Password>
+    <Blocked>0</Blocked>
+  </User>
+</Users>
